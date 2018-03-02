@@ -1,0 +1,5 @@
+-crud cex.io        cex problems
+-private db         personal home test server
+-graph ui
+-daytime efficiency
+-ai
